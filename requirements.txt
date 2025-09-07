@@ -1,0 +1,16 @@
+# Core scraping and parsing
+requests
+beautifulsoup4
+newspaper3k
+
+# Reddit API
+praw
+
+# Environment variable management
+python-dotenv
+
+# Language detection
+langdetect
+
+# Date parsing
+python-dateutil
